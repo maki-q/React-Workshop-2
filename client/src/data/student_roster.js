@@ -1,4 +1,4 @@
-export default studentRoster = [
+export const studentRoster = [
   'Rockwell (Alastair) Allen',
   'Alexandria Christine Norvani',
   'Austin Beyaoju',
@@ -22,3 +22,6 @@ export default studentRoster = [
   'Valerie Po',
   'Zebib Gebreslassie',
 ]
+
+
+// data's an array

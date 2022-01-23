@@ -1,1 +1,50 @@
 /* Style up components we've created */
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header img {
+  width: 50px;
+  margin: 25px;
+}
+
+h3 {
+  display: inline;
+}
+
+.student-list {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.filler {
+  width: 100px;
+  height: 100px;
+}
+
+.student {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.student .checkbox {
+  margin: 15px;
+}
+
+.student button {
+  margin: 15px;
+}
+
+.notes-container {
+  max-width: 275px;
+}
+
+.notes-container textarea {
+  margin: 15px;
+  width: 250px;
+  height: 100px;
+}
